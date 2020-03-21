@@ -1,0 +1,11 @@
+.idea/
+venv/
+_results.py
+old/
+data/
+*.pyc
+__pycache__
+*.egg-info
+split-domain-files/
+reports/
+models/
